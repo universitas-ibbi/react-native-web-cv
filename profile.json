@@ -1,0 +1,52 @@
+{
+  "profile": {
+    "nama": "Budi Anduk",
+    "jabatan": "Frontend Developer",
+    "deskripsi": "Saya seorang Frontend Developer yang berdomisili di Jakarta. Saya memiliki pengalaman dalam membuat website menggunakan HTML, CSS, dan Javascript. Saya juga memiliki pengalaman dalam menggunakan framework VueJS dan ReactJS. Saya juga memiliki pengalaman dalam membuat aplikasi mobile menggunakan React Native.",
+    "gambar": "leon-weib.png"
+  },
+  "expertises": [
+    {
+      "expertise": "HTML",
+      "keterangan": "Saya memiliki pengalaman dalam membuat website menggunakan HTML."
+    },
+    {
+      "expertise": "CSS",
+      "keterangan": "Saya memiliki pengalaman dalam membuat website menggunakan CSS."
+    },
+    {
+      "expertise": "Javascript",
+      "keterangan": "Saya memiliki pengalaman dalam membuat website menggunakan Javascript."
+    },
+    {
+      "expertise": "VueJS",
+      "keterangan": "Saya memiliki pengalaman dalam membuat website menggunakan VueJS."
+    }
+  ],
+  "skills": [
+    {
+      "title": "HTML",
+      "percentage": 90
+    },
+    {
+      "title": "CSS",
+      "percentage": 80
+    },
+    {
+      "title": "Javascript",
+      "percentage": 70
+    },
+    {
+      "title": "VueJS",
+      "percentage": 60
+    },
+    {
+      "title": "ReactJS",
+      "percentage": 50
+    },
+    {
+      "title": "React Native",
+      "percentage": 40
+    }
+  ]
+}
